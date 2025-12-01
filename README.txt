@@ -32,11 +32,7 @@ Run the program with:
 
 ./space_mission
 
-If “No rule to make target” occurs
 
-Ensure all .c files listed in the Makefile exist. A typical Makefile for this project should include:
-
-gcc -Wall -Wextra -g -o space_mission main.c mission_control.c
 
 
 If filenames differ, update them accordingly.
@@ -62,3 +58,4 @@ File I/O for mission loading and report saving
 Enum-based priority validation
 
 String and timestamp validation
+
